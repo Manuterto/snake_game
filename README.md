@@ -39,6 +39,6 @@ python snake.py
 ![Game Screenshot](screenshot.png)
 
 
-# -Author-
+# Author
 
 Manuela Terto
