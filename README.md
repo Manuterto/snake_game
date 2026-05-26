@@ -4,7 +4,7 @@
 
 A simple Snake game made with Python and Pygame.
 
-##-Features-
+# -Features-
 
 - Snake movement
 - Food system
@@ -12,7 +12,7 @@ A simple Snake game made with Python and Pygame.
 - Collision detection
 - Game over screen
 
-##-Technologies-
+# -Technologies-
 
 - Python
 - Pygame
@@ -39,6 +39,6 @@ python snake.py
 
 
 
-##-Author-
+# -Author-
 
 Manuela Terto
