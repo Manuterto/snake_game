@@ -36,7 +36,7 @@ python snake.py
 - Arrow keys to move
 
 -Screenshot-
-
+![Game Screenshot](screenshot.png)
 
 
 # -Author-
